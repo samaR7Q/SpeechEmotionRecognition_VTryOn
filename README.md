@@ -1,5 +1,5 @@
 
-Speech Emotion Recognition (SER)
+**Speech Emotion Recognition (SER)**
 
 **Objective:**  
 This project aims to experiment with Speech Emotion Recognition (SER) by using four datasets to identify and classify emotions from audio data.
